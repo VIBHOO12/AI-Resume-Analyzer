@@ -1,0 +1,11 @@
+node_modules/
+target/
+
+.env
+
+application.properties
+
+.idea/
+.vscode/
+
+*.log
